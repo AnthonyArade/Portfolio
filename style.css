@@ -355,6 +355,7 @@ svg{
   line-height: 1.8;
   margin-top: 64px;
   color: var(--color-text);
+  margin-bottom: 12px;
 }
 
 .section-text{
@@ -489,10 +490,49 @@ svg{
   background-color: var(--color-green);
 }
 
+.img{
+  overflow: hidden;
+  display: grid;
+  grid-auto-columns: revert;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+img{
+  width: 90%;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    transition: transform 0.3s;
+    cursor: pointer;
+    margin-bottom: 12px;
+}
+
+img:hover{
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2);
+  }
+
+  .start{
+    margin-top: 0px;
+  }
+
 
 /* Media Queries */
 
+@media (max-width: 1440px){
+
+  .img{
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+}
+
 @media (max-width: 968px){
+
+  .img{
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .section{
     width: 100%;
   }
@@ -518,4 +558,12 @@ svg{
   .hero-second-subheading{
     font-size: 18px;
   }
+}
+
+@media (max-width: 600px){
+
+  .img{
+    grid-template-columns: repeat(1, 1fr);
+  }
+
 }
