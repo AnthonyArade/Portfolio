@@ -1,0 +1,8 @@
+Documentation for the Airbnb website:
+
+Le site etant un construction toute les fonctionnalités & design ne sont pas encore terminées.
+
+sur la page d'acceuil vous retrouverez les differents filtres mis en place ,
+telle que la location , la periode de disponibilité , le nombre de voyageur qu'il peux acceuilir et le type du logement.
+pour effectuer une recherche de logement parfaite.
+

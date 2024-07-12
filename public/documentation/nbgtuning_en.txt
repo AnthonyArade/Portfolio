@@ -1,0 +1,35 @@
+Documentation for the NBG Tuning website:
+
+Since the website primarily caters to French-speaking users, there isn't a translated version available.
+
+Please note that the "À propos," "Galerie," and "Contact" pages are not functional. Attempting to access them will result in an error page.
+
+You are welcome to create an account on the "Inscription" page and log in via the "Connexion" page. However, the "Mot de passe oublié" feature, 
+which allows you to recover your password, is inactive due to the absence of an email server.
+
+For access to an admin account, please use the following credentials:
+
+Email: test@gmail.com
+Password: testtest
+
+The user interface on the "Mon compte" page was accessible previously but is currently inaccessible. However, it allowed users to manage their accounts and view purchase history.
+
+The admin account provides similar functionalities, with the addition of being able to view purchase histories of all users.
+
+When logged in as an admin, you can create new articles under "Nouveau produit." You have the option to either create a new category or use an existing one, 
+provide article details, and upload multiple images.
+
+After submission, you'll be redirected to the article page, and all articles can be viewed on the "Boutique" page. 
+Adding an item to your cart will redirect you to the cart page. Payment processing is handled by the Stripe API. 
+For testing purposes, you can use the following credit card information: 4242 4242 4242 4242, along with random details.
+
+Upon successful payment, you'll be redirected to the confirmation page. Feel free to generate an invoice by clicking on "Facture."
+
+Please note that the appearance of the website is just a demo, as the CEO of NBG Tuning did not provide a design to replicate.
+
+That concludes the documentation. Thank you for reading.
+
+
+
+
+
