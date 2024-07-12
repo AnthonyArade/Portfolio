@@ -55,18 +55,18 @@ export default class Theme extends EventEmitter {
                 secondsectiontextwrapper[4].textContent = "Création de scripts & Dynamisme des applications.";
                 projectPrincipalTitle[1].textContent = "Projet au qu'elle que j'ai collaborée - Wordpress & php site web";
                 projectPrincipalTitle[2].textContent = "Projets Fini / Incomplet";
-                projectPrincipalTitle[3].textContent = "OTCNM - Rally de l'heritage - un projet symfony";
-                projectPrincipalTitle[4].textContent = "OTCNM - Espace de travail securisée - un projet symfony";
+                projectPrincipalTitle[3].textContent = "OTCNM - Rally de l'héritage - un projet symfony";
+                projectPrincipalTitle[4].textContent = "OTCNM - Espace de travail sécurisée - un projet symfony";
                 projectPrincipalTitle[5].textContent = "NBGTuning - site web de vente en ligne - un projet symfony";
-                projectPrincipalTitle[6].textContent = "Copy de Airbnb - un projet react/node ( en developpement )";
-                sectionTextStart[0].textContent = "La conception de ce site web avait pour but d'apporte de la visibilité et accesibilité pour un évenement se deroulant dans la partie nord de l'île";
-                sectionTextStart[1].textContent = "Cette espace de travaille a éte conçu pour facilitier le partage de données a travers l'equipe pour des raison de securité et privé la demonstration de ce projet en detail n'est pas possible";
-                sectionTextStart[2].textContent = "Le site web NBGTuning etait une requete de la part d'un proche qui souhaitait developper une surface de vente de ces produit sur internet , malheuresement se projet a éte interrompu";
-                sectionTextStart[3].textContent = "La réalisation de ce projet avait pour but de renforcée mon apprentisage de react et node js par la reproduction d'un site web connu et compliqué";
-                sectionText[8].textContent = "L'utilisateur etait capable de retrouve les regles de l'évenement, les restaurant , les airbnb & hotels il avait aussi la possibilité de s'enregistrer pour l'évenement , c'est inscriptions etait visible sur l'espace securisée sur l'autre partie du domaine";
-                sectionText[10].textContent = "En se connectant l'equipe avait accées a leur données de travail , la posibilité d'effectuer une demande de fourniture ou de jours de congées"
-                sectionText[12].innerHTML = 'Pour expérimenter pleinement le site web telecharger & lisé la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
-                sectionText[14].innerHTML = 'Pour expérimenter pleinement le site web telecharger & lisé la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
+                projectPrincipalTitle[6].textContent = "Copy de Airbnb - un projet react/node ( en développement )";
+                sectionTextStart[0].textContent = "La conception de ce site web avait pour but d'apporte de la visibilité et accessibilité pour un évènement se déroulant dans la partie nord de l'île";
+                sectionTextStart[1].textContent = "Cette espace de travaille a été conçu pour faciliter le partage de données a travers l'équipe pour des raison de sécurité et privé la démonstration de ce projet en détail n'est pas possible.";
+                sectionTextStart[2].textContent = "Le site web NBGTuning était une requête de la part d'un proche qui souhaitait développer une surface de vente de ces produit sur internet , malheureusement se projet a été interrompu";
+                sectionTextStart[3].textContent = "La réalisation de ce projet avait pour but de renforcée mon apprentissage de react et node js par la reproduction d'un site web connu et compliqué";
+                sectionText[8].textContent = "L'utilisateur était capable de retrouve les règles de l'évènement, les restaurant , les airbnb & hôtels il avait aussi la possibilité de s'enregistrer pour l'évènement , c'est inscriptions était visible sur l'espace sécurisée sur l'autre partie du domaine";
+                sectionText[10].textContent = "En se connectant l'équipe avait accès a leur données de travail , la possibilité d'effectuer une demande de fourniture ou de jours de congés"
+                sectionText[12].innerHTML = 'Pour expérimenter pleinement le site web télécharger la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
+                sectionText[14].innerHTML = 'Pour expérimenter pleinement le site web télécharger la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
             } else if (this.language == "EN") {
                 //English
                 FirstTitle.textContent = "About Me";
