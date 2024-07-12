@@ -1,0 +1,36 @@
+Documentation for the Airbnb website:
+
+As the site is still under construction, all functionalities and designs are not yet complete.
+
+On the home page, you'll find the various filters we've set up.
+Such as the location, the period of availability, the number of travelers it can accommodate and the type of accommodation.
+For the perfect accommodation search.
+
+Click on the menu to access the account creation interface.
+You can create an account or log in by entering an e-mail address and password, or connect via Google.
+
+Once you've logged in, you'll be able to access your personal space. You'll arrive at the Today section, which is unfortunately not yet active.
+The purpose of this section is to show you the current status of your accommodation bookings.
+
+
+Calendrier, Message and Menu are not yet operational, so let's concentrate on Annonces.
+
+Here, you can create an advert for a property, giving details of the type of property, which part of the property you're renting, its location and its composition.
+How many people can it accommodate, what equipment does it have, photos of your accommodation, a title and a description, 
+The management of your reservations, if you wish to restrict the reservation, the price of the night, the implementation of discounts and your statue and possession of sensitive equipment.
+
+After this, your ad is complete and you can view it before validating it.
+
+Once you've created your ad, click on the photo of your property to access the detailed editing section.
+
+In this area, you can add photos, group & move them, modify the cover photo and much more.
+
+You can also modify the title of your accommodation, its type, how many travelers it can accommodate, and its description.
+
+An extensive equipment list is also available, allowing you to delete those currently present or add others that were not present at the time of creation.
+
+You can also modify the position of your accommodation and the reservation system. 
+
+If you exit the my accommodation for arrival guide menu, you'll be able to enter your wifi information.
+
+A delete button is also available.

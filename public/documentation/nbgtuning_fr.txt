@@ -3,14 +3,14 @@ Documentation pour le site web de NBG Tuning :
 Veuillez noter que les pages "À propos", "Galerie" et "Contact" ne sont pas fonctionnelles. Si vous tentez d'y accéder, une page d'erreur s'affichera.
 
 Vous pouvez créer un compte sur la page "Inscription" et vous connecter via la page "Connexion". Cependant, la fonction "Mot de passe oublié", 
-qui vous permet de récupérer votre mot de passe, est inactive en raison de l'absence de serveur de messagerie.
+Qui vous permet de récupérer votre mot de passe, est inactive en raison de l'absence de serveur de messagerie.
 
 Pour accéder à un compte administrateur, veuillez utiliser les identifiants suivants :
 
 Courriel : test@gmail.com
 Mot de passe : testtest
 
-L'interface utilisateur de la page "Mon compte" était accessible auparavant mais est actuellement inaccessible. 
+L'interface utilisateur de la page "Mon compte" était accessible auparavant, mais est actuellement inaccessible. 
 Elle permettait toutefois aux utilisateurs de gérer leurs comptes et de consulter l'historique de leurs achats.
 
 Le compte administrateur offre des fonctionnalités similaires, avec en plus la possibilité de consulter l'historique des achats de tous les utilisateurs.
@@ -28,5 +28,3 @@ Une fois le paiement effectué, vous serez redirigé vers la page de confirmatio
 Veuillez noter que l'apparence du site web n'est qu'une démo, car le PDG de NBG Tuning n'a pas fourni de design à reproduire.
 
 Ceci conclut la documentation. Nous vous remercions de votre lecture.
-
-Traduit avec DeepL.com (version gratuite)

@@ -65,8 +65,8 @@ export default class Theme extends EventEmitter {
                 sectionTextStart[3].textContent = "La réalisation de ce projet avait pour but de renforcée mon apprentissage de react et node js par la reproduction d'un site web connu et compliqué";
                 sectionText[8].textContent = "L'utilisateur était capable de retrouve les règles de l'évènement, les restaurant , les airbnb & hôtels il avait aussi la possibilité de s'enregistrer pour l'évènement , c'est inscriptions était visible sur l'espace sécurisée sur l'autre partie du domaine";
                 sectionText[10].textContent = "En se connectant l'équipe avait accès a leur données de travail , la possibilité d'effectuer une demande de fourniture ou de jours de congés"
-                sectionText[12].innerHTML = 'Pour expérimenter pleinement le site web télécharger la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
-                sectionText[14].innerHTML = 'Pour expérimenter pleinement le site web télécharger la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
+                sectionText[12].innerHTML = 'Pour expérimenter pleinement le site web télécharger la documentation <a href="public/documentation/nbgtuning_fr.txt" download>Ici</a>';
+                sectionText[14].innerHTML = 'Pour expérimenter pleinement le site web télécharger la documentation <a href="public/documentation/airbnb_fr.txt" download>Ici</a>';
             } else if (this.language == "EN") {
                 //English
                 FirstTitle.textContent = "About Me";
@@ -93,7 +93,7 @@ export default class Theme extends EventEmitter {
                 sectionText[8].textContent = "User was able te retrieve the rules, restaurant , airbnb and hotelsand they could also register to the event , those registration was visable on the securised workspace on a other part of the domain."
                 sectionText[10].textContent = "But the team needed to be log in to access of the workspace and through it they was able to access multiple data and request work furniture & days off"
                 sectionText[12].innerHTML = 'To fully experience the website please download & read the documentation <a href="public/documentation/nbgtuning_en.txt" download>here</a>';
-                sectionText[14].innerHTML = 'To fully experience the website please download & read the documentation <a href="public/documentation/nbgtuning_en.txt" download>here</a>';
+                sectionText[14].innerHTML = 'To fully experience the website please download & read the documentation <a href="public/documentation/airbnb_en.txt" download>here</a>';
             }
             console.log();
         });

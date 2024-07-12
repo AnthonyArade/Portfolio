@@ -1,8 +1,36 @@
-Documentation for the Airbnb website:
+Documentation pour le site Airbnb :
 
-Le site etant un construction toute les fonctionnalités & design ne sont pas encore terminées.
+Le site étant en construction toutes les fonctionnalités & designs ne sont pas encore terminées.
 
-sur la page d'acceuil vous retrouverez les differents filtres mis en place ,
-telle que la location , la periode de disponibilité , le nombre de voyageur qu'il peux acceuilir et le type du logement.
-pour effectuer une recherche de logement parfaite.
+Sur la page d'accueil, vous retrouverez les différents filtres mis en place.
+Telle que la location, la période de disponibilité, le nombre de voyageurs qu'il peut accueillir et le type du logement.
+Pour effectuer une recherche de logement parfaite.
 
+Cliquez sur le menu pour accéder à l'interface de création de compte.
+Vous avez la possibilité de créer un compte ou de vous connecter en insérant un mail et un mot de passe ou vous connecter via Google.
+
+Après votre connexion, vous pourrez accéder à votre espace personnel, vous arriverez sur la partie aujourd'hui qui est malheureusement pas encore active.
+Elle a pour but de vous afficher l'état actuel des réservations sur vos logements.
+
+
+Calendrier, Message et menu n'étant pas encore opérationnel concentrons nous sur Annonces.
+
+Ici, vous pourrez créer une annonce de logement en informant le type du logement, qu'elle partie du logement loué vous, sa localisation, sa composition.
+Combien de personnes peut-il accueillir, quel équipement possède-t-il, des photos de votre logement, un titre et une description, 
+La gestion de vos réservations, si vous souhaitez restreindre la réservation, le prix de la nuitée, la mise en place de réduction et votre statue et la possession d'équipement sensible.
+
+Suite à cela, votre annonce est terminée et vous pouvez la visualiser avant de la valider.
+
+Après avoir créé votre annonce, la partie modification approfondie est disponible en cliquant sur la photo de votre logement.
+
+Dans cet espace, vous pourrez rajouter des photos, les regrouper & déplacer, modifier la photo de couverture et encore plus.
+
+Vous avez aussi la possibilité de modifier le titre de votre logement, son type, combien de voyageurs peut, il accueillir, sa description.
+
+Une liste d'équipement approfondie est mis en place, vous pourrez supprimer ceux actuellement présent ou encore en rajouter d'autres qui n'étaient pas présentes lors de la création.
+
+Vous pourrez aussi modifier la position de votre logement et le système de réservation. 
+
+Si vous sortez du menu mon logement pour guide d'arrivée, vous serez dans la possibilité de renseignée vos informations wifi.
+
+Un bouton de suppression de votre annonce est disponible.
