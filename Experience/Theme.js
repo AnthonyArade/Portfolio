@@ -65,8 +65,8 @@ export default class Theme extends EventEmitter {
                 sectionTextStart[3].textContent = "La réalisation de ce projet avait pour but de renforcer mon apprentissage de React et Node.js en reproduisant un site web connu et complexe.";
                 sectionText[8].textContent = "L'utilisateur était capable de retrouver les règles de l'événement, les restaurants, les Airbnb et les hôtels. Il avait aussi la possibilité de s'enregistrer pour l'événement ; ces inscriptions étaient visibles dans l'espace sécurisé sur une autre partie du domaine.";
                 sectionText[10].textContent = "En se connectant, l’équipe avait accès à ses données de travail et la possibilité d’effectuer une demande de fourniture ou de jours de congés."
-                sectionText[12].innerHTML = 'Pour experiencer pleinement le site web telecharger & lisé la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
-                sectionText[14].innerHTML = 'Pour experiencer pleinement le site web telecharger & lisé la documentation <a href="public/documentation/nbgtuning_en.txt" download>Ici</a>';
+                sectionText[12].innerHTML = 'Pour experiencer pleinement le site web telecharger & lisé la documentation <a href="public/documentation/nbgtuning_fr.txt" download>Ici</a>';
+                sectionText[14].innerHTML = 'Pour experiencer pleinement le site web telecharger & lisé la documentation <a href="public/documentation/airbnb_fr.txt" download>Ici</a>';
             } else if (this.language == "EN") {
                 //English
                 FirstTitle.textContent = "About Me";
@@ -93,7 +93,7 @@ export default class Theme extends EventEmitter {
                 sectionText[8].textContent = "Users were able to retrieve the rules, restaurants, Airbnb, and hotels. They could also register for the event, and those registrations were visible in the secured workspace on another part of the domain."
                 sectionText[10].textContent = "But the team needed to log in to access the workspace. Once logged in, they were able to access various data and request work supplies and days off."
                 sectionText[12].innerHTML = 'To fully experience the website please download & read the documentation <a href="public/documentation/nbgtuning_en.txt" download>here</a>';
-                sectionText[14].innerHTML = 'To fully experience the website please download & read the documentation <a href="public/documentation/nbgtuning_en.txt" download>here</a>';
+                sectionText[14].innerHTML = 'To fully experience the website please download & read the documentation <a href="public/documentation/airbnb_en.txt" download>here</a>';
             }
             console.log();
         });
