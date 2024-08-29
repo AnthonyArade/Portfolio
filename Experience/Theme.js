@@ -92,8 +92,8 @@ export default class Theme extends EventEmitter {
                 sectionTextStart[3].textContent = "This project was designed to deepen my knowledge of React and Node.js by reproducing a well-known and complex website."
                 sectionText[8].textContent = "Users were able to retrieve the rules, restaurants, Airbnb, and hotels. They could also register for the event, and those registrations were visible in the secured workspace on another part of the domain."
                 sectionText[10].textContent = "But the team needed to log in to access the workspace. Once logged in, they were able to access various data and request work supplies and days off."
-                sectionText[12].innerHTML = 'To fully experience the website please target="_blank" & read the documentation <a href="https://github.com/Gt86Factory/Portfolio/blob/master/public/documentation/nbgtuning_en.txt" target="_blank">here</a>';
-                sectionText[14].innerHTML = 'To fully experience the website please target="_blank" & read the documentation <a href="https://github.com/Gt86Factory/Portfolio/blob/master/public/documentation/airbnb_en.txt" target="_blank">here</a>';
+                sectionText[12].innerHTML = 'To fully experience the website please refer to the documentation <a href="https://github.com/Gt86Factory/Portfolio/blob/master/public/documentation/nbgtuning_en.txt" target="_blank">here</a>';
+                sectionText[14].innerHTML = 'To fully experience the website please refer to the documentation <a href="https://github.com/Gt86Factory/Portfolio/blob/master/public/documentation/airbnb_en.txt" target="_blank">here</a>';
             }
             console.log();
         });
