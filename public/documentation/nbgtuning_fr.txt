@@ -1,0 +1,30 @@
+Documentation pour le site web de NBG Tuning :
+
+Veuillez noter que les pages "À propos", "Galerie" et "Contact" ne sont pas fonctionnelles. Si vous tentez d'y accéder, une page d'erreur s'affichera.
+
+Vous pouvez créer un compte sur la page "Inscription" et vous connecter via la page "Connexion". Cependant, la fonction "Mot de passe oublié", 
+Qui vous permet de récupérer votre mot de passe, est inactive en raison de l'absence de serveur de messagerie.
+
+Pour accéder à un compte administrateur, veuillez utiliser les identifiants suivants :
+
+Courriel : test@gmail.com
+Mot de passe : testtest
+
+L'interface utilisateur de la page "Mon compte" était accessible auparavant, mais est actuellement inaccessible. 
+Elle permettait toutefois aux utilisateurs de gérer leurs comptes et de consulter l'historique de leurs achats.
+
+Le compte administrateur offre des fonctionnalités similaires, avec en plus la possibilité de consulter l'historique des achats de tous les utilisateurs.
+
+Lorsque vous êtes connecté en tant qu'administrateur, vous pouvez créer de nouveaux articles sous "Nouveau produit". 
+Vous avez la possibilité de créer une nouvelle catégorie ou d'utiliser une catégorie existante, de fournir les détails de l'article et de télécharger plusieurs images.
+
+Après la soumission, vous serez redirigé vers la page de l'article, et tous les articles peuvent être consultés sur la page "Boutique". 
+L'ajout d'un article à votre panier vous redirigera vers la page du panier. 
+Le traitement des paiements est assuré par l'API Stripe. 
+À des fins de test, vous pouvez utiliser les informations de carte de crédit suivantes : 4242 4242 4242 4242, ainsi que des détails aléatoires.
+
+Une fois le paiement effectué, vous serez redirigé vers la page de confirmation. N'hésitez pas à générer une facture en cliquant sur "Facture".
+
+Veuillez noter que l'apparence du site web n'est qu'une démo, car le PDG de NBG Tuning n'a pas fourni de design à reproduire.
+
+Ceci conclut la documentation. Nous vous remercions de votre lecture.
